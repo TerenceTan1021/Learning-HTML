@@ -6,12 +6,6 @@
 
 You could say that HTML add structure for a website, a foundation to saupport content for a website.
 
-# Tags
------------------------------------------------------------------------------------------------------------------------------
-> <h1> Header </h
-> <p>Paragraph</p>
-> <a>Hyper links</a>
-
 # Basic index.html starting point
 
 ```
@@ -28,9 +22,16 @@ You could say that HTML add structure for a website, a foundation to saupport co
 </html>
 ```
 
+**useful tags**
+```
+<br>    <!--breaks the line-->
+<hr>    <!--adds a horizontal line-->
+```
+
 **Heading**
 -----------------------------------------------------------------------------------------------------------------------------
 ![Picture of the heading style](image/heading.png)
+
 ```
 <body>
     <h1>This is h1 heading</h1>
@@ -43,4 +44,16 @@ You could say that HTML add structure for a website, a foundation to saupport co
 
 **Paragraph**
 -----------------------------------------------------------------------------------------------------------------------------
+```
+<p>Hello world</p>    <!--This will hold the paragraph and no matter
+                          what changes you make to it it will retain its         
+                           paragraph form-->
 
+<pre>                   <!--This way the text between will contain the line break-->
+
+Hello
+
+World
+
+</pre>
+```
