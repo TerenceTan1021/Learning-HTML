@@ -12,3 +12,19 @@ You could say that HTML add structure for a website, a foundation to saupport co
 - <h1>Header</h1> 
 - <p>Paragraph</p>
 - <a>Hyper links</a>
+
+# Basic index.html starting point
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+```
