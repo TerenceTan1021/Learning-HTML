@@ -8,7 +8,7 @@ You could say that HTML add structure for a website, a foundation to saupport co
 
 # Tags
 -----------------------------------------------------------------------------------------------------------------------------
-> <h1> Header </h1> 
+> <h1> Header </h
 > <p>Paragraph</p>
 > <a>Hyper links</a>
 
