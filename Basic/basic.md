@@ -26,6 +26,8 @@ You could say that HTML add structure for a website, a foundation to saupport co
 ```
 <br>    <!--breaks the line-->
 <hr>    <!--adds a horizontal line-->
+
+<!-- THIS IS A COMMENT-->
 ```
 
 **Heading**
