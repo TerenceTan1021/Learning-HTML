@@ -8,10 +8,9 @@ You could say that HTML add structure for a website, a foundation to saupport co
 
 # Tags
 -----------------------------------------------------------------------------------------------------------------------------
-<br>
-- <h1>Header</h1> 
-- <p>Paragraph</p>
-- <a>Hyper links</a>
+> <h1> Header </h1> 
+> <p>Paragraph</p>
+> <a>Hyper links</a>
 
 # Basic index.html starting point
 
