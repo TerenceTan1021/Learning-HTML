@@ -30,7 +30,7 @@ You could say that HTML add structure for a website, a foundation to saupport co
 ```
 
 **Heading**
-![Picture of the heading style](image/heading.md)
+![Picture of the heading style](image/heading.png)
 ```
 <body>
     <h1>This is h1 heading</h1>
