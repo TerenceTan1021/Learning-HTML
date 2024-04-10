@@ -71,6 +71,7 @@ click me                     <!--name of the link-->
 </a>
 ```
 > _To other html file_
+
 index.html
 ```
 <body>
