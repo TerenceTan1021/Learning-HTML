@@ -28,3 +28,14 @@ You could say that HTML add structure for a website, a foundation to saupport co
 </body>
 </html>
 ```
+
+**Heading**
+```
+<body>
+    <h1>This is h1 heading</h1>
+    <h2>This is h2 heading</h2>
+    <h3>This is h3 heading</h3>
+    <h4>This is h4 heading</h4>
+    <h5>This is h5 heading</h5>
+</body>
+```
