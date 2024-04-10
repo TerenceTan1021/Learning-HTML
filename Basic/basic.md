@@ -7,8 +7,8 @@
 You could say that HTML add structure for a website, a foundation to saupport content for a website.
 
 # Tags
--------------------------------------------------------------------------------------------------------------------------------
-
+-----------------------------------------------------------------------------------------------------------------------------
+<br>
 - <h1>Header</h1> 
 - <p>Paragraph</p>
 - <a>Hyper links</a>
@@ -30,6 +30,7 @@ You could say that HTML add structure for a website, a foundation to saupport co
 ```
 
 **Heading**
+-----------------------------------------------------------------------------------------------------------------------------
 ![Picture of the heading style](image/heading.png)
 ```
 <body>
@@ -40,3 +41,7 @@ You could say that HTML add structure for a website, a foundation to saupport co
     <h5>This is h5 heading</h5>
 </body>
 ```
+
+**Paragraph**
+-----------------------------------------------------------------------------------------------------------------------------
+
