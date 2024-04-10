@@ -59,3 +59,36 @@ World
 
 </pre>
 ```
+
+**Hyper Link**
+-----------------------------------------------------------------------------------------------------------------------------
+> _To other links_
+```
+<a href = "(YOUR LINK)"
+target ="_blank"            <!-- Open new tab or new window-->
+title="Goes to link"
+click me                     <!--name of the link-->
+</a>
+```
+> _To other html file_
+index.html
+```
+<body>
+    <a href="Hello_World.html">
+    HelloWorldTEXT
+
+    </a>
+</body>
+```
+Hello_World.html
+```
+<h1> Hellow World</h1>
+```
+> _To process of email_
+```
+<body>
+    <a href="mailto: test@fake.com>
+    email me
+    </a>
+</body>
+```
